@@ -1,0 +1,4 @@
+{
+  "Name": "Tridente",
+  "Text": "Tipo:Marciais Corpo-a-corpo \n\n  Preço: 5 PO \n\n  Dano: 1d6 Perfurante\n\n  Peso: 1 kg \n\n  Propriedades: \n\n  Arremesso (distância 6/18):Se uma arma possuir a propriedade arremesso, você pode arremessar a arma para realizar um ataque à distância. Se essa arma for uma arma de ataque corpo-a-corpo, você usa o mesmo modificador de habilidade para as jogadas de ataque e dano que usaria para realizar um ataque corpo-a-corpo com a arma. Por exemplo, se você arremessar uma machadinha, ele usa seu modificador de Força, mas se arremessar uma adaga, você pode usar tanto seu modificador de Força quanto o de Destreza, pois a adaga possui a propriedade acuidade.\n\n  Versátil (1d10):Essa arma pode ser usada com uma ou duas mãos. Um valor de dano aparece entre parênteses com a propriedade – é o dano da arma quando usada com as duas mãos para efetuar ataques corpo-a-corpo.\n\n"
+}
