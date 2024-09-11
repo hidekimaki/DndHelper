@@ -41,5 +41,6 @@
   "SABP": false,
   "INTP": false,
   "CARP": false,
-  "skills": ['teste','teste2','teste3']
+
+  "Skills":'["teste", "testes2"]'
 }
