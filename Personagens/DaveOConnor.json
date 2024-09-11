@@ -40,5 +40,6 @@
   "CONP": true,
   "SABP": false,
   "INTP": false,
-  "CARP": false
+  "CARP": false,
+  "skills": ['teste','teste2','teste3']
 }
