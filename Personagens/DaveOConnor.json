@@ -41,6 +41,174 @@
   "SABP": false,
   "INTP": false,
   "CARP": false,
+  "skills": [
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    },
+    {
+      "name": "Atletismo",
+      "baseValue": "FOR",
+      "prof": 1
+    }
+  ],
 
-  "Skills":'["teste", "testes2"]'
+  "itens": [
+    {
+      "name": "Escudo sagrado",
+      "description": "CA: 13+[DES]+2\nResistencia a Dano:Sagrado"
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Espada longa +2",
+      "description": "Acerto: d20+[FOR]+2\nDano:1d8+2"
+    }
+  ]
 }
